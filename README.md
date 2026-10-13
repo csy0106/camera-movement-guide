@@ -4,6 +4,10 @@
 
 [在线阅读手册](https://csy0106.github.io/camera-movement-guide/)
 
+[下载Blender工程](https://github.com/csy0106/camera-movement-guide/raw/refs/heads/main/camera_movement_directions.blend)
+
+工程包含24段可编辑相机动画。打开后选择“运镜课堂 · 24种方向细分”，24fps，总长120秒。
+
 - 推拉、左右摇、上下摇、左右平移、四个方向跟拍、升降、顺逆环绕、变焦、希区柯克变焦、左右甩镜、手持与稳定跟拍。
 - 每段GIF为5秒，支持播放暂停、搜索筛选与提示词复制。
 - 提示词可填写景别、角度等参数，再追加到自己的主体与场景描述后。
